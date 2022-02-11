@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          반갑습니다!
+          환영합니다
         </a>
       </header>
     </div>
